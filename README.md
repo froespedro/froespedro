@@ -1,4 +1,4 @@
-<img align="center" src="Banner.png" />
+<!-- <img align="center" src="Banner.png" />-->
 
 <h1 align="center">Hey! I'm Pedro, a Front-End Developer</h1>
 <h4 align="center">I am a passionate web developer making my way to become a great Software Engineer!</h4>
