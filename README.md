@@ -1,7 +1,13 @@
 <!-- <img align="center" src="Banner.png" /> -->
 
 <h1 align="center">Hey! I'm Pedro, a Front-End Developer</h1>
-<h4 align="center">I am a passionate web developer making my way to become a great Software Engineer!</h4>
+<h4 align="center">I'm a front-end enthusiast turning designs into captivating web experiences. Balancing aesthetics and performance, I bring visions to life online.</h4>
+<p align="center">
+    <span role="img" aria-label="globe">🌐</span> <strong>Front-End Developer</strong> |
+    <span role="img" aria-label="art">🎨</span> <strong>UI/UX Enthusiast</strong> |
+    <span role="img" aria-label="rocket">🚀</span> <strong>Tech Explorer</strong>
+</p>
+
 
 <h2> 👤 About Me:</h2>
 <ul>
